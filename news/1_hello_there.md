@@ -26,5 +26,3 @@ We value your contributions and input! Whether it's bug reports, feature request
 Once again, thank you for your patience and support. We couldn't have come this far without you. We're excited about the future of PixelbiteCSS and can't wait to see the amazing projects you'll create with it.
 
 Happy coding! 🚀
-
-- [@neostetic](https://github.com/neostetic)
