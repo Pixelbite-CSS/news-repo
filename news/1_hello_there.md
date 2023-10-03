@@ -1,5 +1,4 @@
-Welcome to PixelbiteCSS 1.6
-
+#### Welcome to PixelbiteCSS 1.6
 We want to extend our warmest welcome to all our users and developers who have been patiently waiting for the release of PixelbiteCSS 1.6. Your support and enthusiasm mean the world to us, and we're excited to share the latest and greatest updates with you.
 
 PixelbiteCSS is an open-source framework for frontend development that's designed to make your web development journey smoother and more enjoyable. With a focus on flexibility, performance, and user experience, we're dedicated to providing you with the tools you need to create stunning web applications and websites.
