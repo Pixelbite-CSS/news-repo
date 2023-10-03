@@ -1,10 +1,18 @@
 [
   {
+    "title": "Documentation delays 🕜",
+    "id": "3_documentation_delays",
+    "author": "neostetic",
+    "authorimage": "https://avatars.githubusercontent.com/u/83291717?v=4",
+    "date": "9. 10. 2023",
+    "image": "https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
     "title": "New website design 🎨",
     "id": "2_new_website_design",
     "author": "neostetic",
     "authorimage": "https://avatars.githubusercontent.com/u/83291717?v=4",
-    "date": "9. 10. 2023",
+    "date": "8. 10. 2023",
     "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80"
   },
   {
@@ -12,7 +20,7 @@
     "id": "1_hello_there",
     "author": "neostetic",
     "authorimage": "https://avatars.githubusercontent.com/u/83291717?v=4",
-    "date": "9. 10. 2023",
-    "image": "https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    "date": "27. 9. 2023",
+    "image": "https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/thumbnail_1x.png"
   }
 ]
