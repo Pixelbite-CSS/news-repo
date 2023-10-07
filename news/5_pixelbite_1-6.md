@@ -1,14 +1,13 @@
 We are thrilled to announce the release of PixelbiteCSS version 1.6! This update brings several enhancements, fixes, and new features to improve your frontend development experience.
 
 ## Major Changes
-
 ### Improved Library Structure
 - We have made significant improvements to the library's structure, resulting in a more efficient and maintainable codebase. Notably, we have deprecated the use of `pixelbite.update`, streamlining the library's internals for better performance and usability.
 
 ### Component Error Popup Fix
 - The issue causing component error popups has been resolved. You can now enjoy a smoother development experience without interruptions.
 
-### Dark Mode and `changeTheme()` Fixes
+### Dark Mode and _changeTheme()_ Fixes
 - We have fixed issues related to Dark Mode and the `changeTheme()` function to ensure consistent behavior and appearance.
 
 ### Configs Support
@@ -24,7 +23,7 @@ We are thrilled to announce the release of PixelbiteCSS version 1.6! This update
 ### Pixelbite Object Restructure
 - The structure of the Pixelbite object has been updated for improved clarity and organization.
 
-### `allocatedPath()` Function
+### _allocatedPath()_ Function
 - We've introduced the `allocatedPath()` function, allowing you to replace `@/` strings with your site's URL. This simplifies path management and makes it easier to handle URLs.
 
 - Additionally, object attributes are now structured as `object_name:object` for consistency and ease of use.
