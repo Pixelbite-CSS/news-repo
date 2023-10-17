@@ -1,4 +1,12 @@
 [
+    {
+    "title": "Announcement: PixelbiteCSS Playground 🖌️",
+    "id": "6_pixelbitecss_playground",
+    "author": "neostetic",
+    "authorimage": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1636&q=80",
+    "date": "17. 10. 2023",    
+    "image": "https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/thumbnail_1x.png"
+  },
   {
     "title": "Release: PixelbiteCSS 1.6 🎉",
     "id": "5_pixelbite_1-6",
