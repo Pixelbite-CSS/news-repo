@@ -1,5 +1,3 @@
-# PixelbiteCSS Update: CDN via Jsdelivr Now Available!
-
 We're thrilled to announce that PixelbiteCSS is now available via CDN through Jsdelivr! You can easily integrate PixelbiteCSS into your projects by linking to our CDN-hosted files. Check it out in our separate repository [pixelbite-css/dist](https://github.com/pixelbite-css/dist).
 
 ## Apology for the Silence
