@@ -8,7 +8,7 @@ We apologize for the silence over the past few months. We understand the inconve
 
 ## Change Log
 
-Curious about what we've been up to? You can now explore our change log for PixelbiteCSS in the [dist repository](https://github.com/pixelbite-css/dist). We've been making updates and improvements to enhance your experience with PixelbiteCSS, and we're excited to share them with you.
+Curious about what we've been up to? You can now explore our change log for PixelbiteCSS in the [dist repository](https://github.com/pixelbite-css/dist/changelog). We've been making updates and improvements to enhance your experience with PixelbiteCSS, and we're excited to share them with you.
 
 ## Happy Easter!
 
