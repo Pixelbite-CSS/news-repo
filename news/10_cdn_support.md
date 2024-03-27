@@ -1,8 +1,4 @@
 We're excited to announce that PixelbiteCSS is now available via CDN through Jsdelivr! You can easily integrate PixelbiteCSS into your projects by linking to our CDN-hosted files from our separate repository [pixelbite-css/dist](https://github.com/pixelbite-css/dist).
-```
-~~<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pixelbite-css/dist/v/1.6/pixelbite.min.css">
-~~<script src="https://cdn.jsdelivr.net/gh/pixelbite-css/dist/v/1.6/pixelbite.min.js"></script>
-```
 
 ## Continuing Support for Old Links
 For those who have been using the old links for CSS and JS delivery in your projects, don't worry! We won't be cutting off the connection anytime soon. However, we encourage you to consider using our CDN for more stable and faster custom usage.
